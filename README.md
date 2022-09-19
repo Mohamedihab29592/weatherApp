@@ -1,16 +1,11 @@
-# weather_app
+# Weather_app
 
-A new Flutter project.
+## Weather app with API (www.weatherapi.com) with Clean Code and MVVM architecture (accses current location , search , add other locations).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![pubspec](https://user-images.githubusercontent.com/64233832/190938490-80e12be4-23ae-4aa1-906d-f0542b4eca77.JPG)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Untitled-1 copy](https://user-images.githubusercontent.com/64233832/190938494-9ede5022-0c46-4bbf-a988-8221aa6dead3.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled-2 copy](https://user-images.githubusercontent.com/64233832/190938503-ca21c7fd-3726-458c-acf1-12bf449574d7.jpg)
