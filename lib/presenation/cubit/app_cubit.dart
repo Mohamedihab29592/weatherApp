@@ -55,7 +55,7 @@ class AppCubit extends Cubit<AppState> {
     await getCurrentPosition();
     await DioHelper.getData(url: forecast, query: {
       'key': apiKey,
-      'q': "cairo",
+      'q': _currentPosition ?? "cairo",
       'days': '7',
       'aqi': 'no',
     }).then((value) {
