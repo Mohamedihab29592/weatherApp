@@ -22,7 +22,7 @@ class TodayCard extends StatelessWidget {
         children: [
           Text(AppStrings.todayTemp, style: bodyMediumTextStyle),
           const SizedBox(height: AppSize.s4),
-          Text(AppStrings.todayTemp,
+          Text(AppStrings.expect,
               style: bodyMediumTextStyle),
         ],
       ),
