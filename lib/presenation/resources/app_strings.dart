@@ -11,6 +11,8 @@ class AppStrings {
   static const String expect ='Expect the same as yesterday';
   static const String search = 'search';
   static const String feelsLike = 'Feels Like';
+  static const String enterData = 'Enter Data to search';
+  static const String enterValidData = 'Enter a valid Country or city to search';
 
 
   /// app route
